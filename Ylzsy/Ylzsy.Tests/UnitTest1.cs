@@ -9,6 +9,7 @@ namespace Ylzsy.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("ok");
         }
     }
 }
