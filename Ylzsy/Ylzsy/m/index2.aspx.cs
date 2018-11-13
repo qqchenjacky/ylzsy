@@ -19,6 +19,11 @@ namespace Ylzsy.m
         {
             return "";
         }
+
+        public int getInt()
+        {
+            return 1;
+        }
             
     }
 }
