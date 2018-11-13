@@ -19,6 +19,11 @@ namespace Ylzsy.m
         {
             return "";
         }
+
+        public bool che()
+        {
+            return true;
+        }
             
     }
 }
